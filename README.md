@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hey, I'm alG-N
 
-<!--
-**alG-N/alG-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack dev (Node.js, Vue, Spring Boot)  
+🤖 Creator of **FumoBOT** – a multipurpose Discord bot  
+🎮 Gacha systems, economy balance, and game logic enjoyer  
+🌸 Anime & Touhou enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript / Node.js
+- Vue
+- Spring Boot
+- SQLite / MySQL
+- Discord.js
+
+---
+
+### 🔥 Featured Projects
+- 🤖 **FumoBOT** – Discord bot with economy & gacha systems
+- 🎵 **Umamusume Jukebox Extension**
+- 🌐 **Intro Website**
+
+---
+
+### 📫 Contact
+- Discord: `yourname#0000`
+- Website: https://alg-n.github.io/intro/
